@@ -63,7 +63,7 @@ Search module allows the user and admin to search the user details based on the 
 1. **Clone the application**
 
 	```bash
-	git clone https://github.com/scbushan05/Vehicle-Insurance-System.git
+	git clone https://github.com/group7891/vis.git
 	```
 
 2. **Create a MySQL Database**
@@ -143,6 +143,3 @@ Search module allows the user and admin to search the user details based on the 
 
 The server will start on port 8080. Open the browser and type the url `http://localhost:8037/vis` to access the application.
 
-For More Awesome Projects Subscribe to My Youtube channel [B2 Tech](https://www.youtube.com/b2tech) 
-
-If you find any difficulty in installing the application then reach me @ [Bushan Sirgur](http://BushanSirgur.in)
